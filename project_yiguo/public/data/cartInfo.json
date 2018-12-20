@@ -1,0 +1,23 @@
+{
+  "Data": {
+    "Num": 0,
+    "IsAllSelect": 2,
+    "SumAmount": 0.0,
+    "Freight": 0.0,
+    "DiscountAmount": 0.0,
+    "CommodityGiftTotalCount": 0,
+    "ShopCartGroups": null,
+    "OperationShopCartGroups": null,
+    "FailShopCartGroups": null,
+    "Tip": {
+      "ShippingTip": {
+        "TipContent": "全场满100元包邮,还差@元包邮",
+        "TipValue": "100.00",
+        "YesOrNo": 0
+      }
+    }
+  },
+  "Code": "0",
+  "Message": null,
+  "IsSuccessful": true
+}

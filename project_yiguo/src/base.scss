@@ -1,0 +1,18 @@
+$normalColor: #BFBEBE;
+$activeColor: #14B87C;
+// 箭头混合
+@mixin arrow($w: 10px, $color: #000, $dir: top) {
+	// 兼容行内和块
+	width: 0;
+	font-size: 0;
+	border: $w solid transparent;
+	border-#{$dir}-color: $color;
+}
+// 清除浮动
+@mixin clearfix {
+	&:after {
+		content: '';
+		display: block;
+		clear: both;
+	}	
+}

@@ -1,0 +1,83 @@
+{
+	"jinkou_fruit": [
+		{
+		"src": "jinkou_fruit_01.jpg",
+		"title": "越南红心火龙果",
+		"discount": "第二份0元",
+		"description": "高颜值 红艳惹人爱",
+		"price": 39,
+		"number": "2个"
+		},
+		{
+		"src": "jinkou_fruit_02.jpg",
+		"title": "越南红心火龙果",
+		"discount": "直降20元",
+		"description": "高颜值 红艳惹人爱",
+		"price": 7.99,
+		"number": "15个"
+		},
+		{
+		"src": "jinkou_fruit_03.jpg",
+		"title": "越南红心火龙果",
+		"discount": "第二件9.9元",
+		"description": "高颜值 红艳惹人爱",
+		"price": 27.8,
+		"number": "4个"
+		}
+	],
+
+	"guochan_fruit": [
+		{
+			"src": "guochan_fruit_04.jpg",
+			"title": "云南脆柿",
+			"discount": "脆甜皮薄 饱满柔嫩",
+			"description": "",
+			"price": 25.8,
+			"number": "1kg"
+		}
+	],
+
+	"vegetables": [
+		{
+			"src": "vegetables_01.jpg",
+			"title": "精选胡萝卜",
+			"discount": "生熟皆好味 细腻新鲜",
+			"description": "",
+			"price": 7.5,
+			"number": "600g"
+		}
+	],
+
+	"seafood": [
+		{
+			"src": "seafood_01.jpg",
+			"title": "阿根廷红虾生凤尾",
+			"discount": "去线留尾，野生鲜嫩美味",
+			"description": "",
+			"price": 32.9,
+			"number": "200g"
+		}
+	],
+
+	"eggs": [
+		{
+			"src": "eggs_01.jpg",
+			"title": "苏北散养老母鸡",
+			"description": "生态散养 鲜而不老",
+			"discount": "直降10元",
+			"price": 49,
+			"number": "950g/只"
+		}
+	],
+
+	"drinks": [
+		{
+			"src": "drinks_01.jpg",
+			"title": "味全活性乳酸菌饮料",
+			"description": "酸甜好喝",
+			"discount": "",
+			"price": 10,
+			"number": "100ml*5"
+		}
+	]	
+}
