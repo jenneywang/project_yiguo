@@ -4,17 +4,9 @@
 ## 项目架构
 vue + vuex + vue-router + axios + vue-cli + yarn + scss + ES6 + ES Modules + jQuery + mint-ui
 
-### 页面展示1
+## 页面展示
 ![模块详情](01.png)  
 
-### 页面展示2
 ![模块详情](02.png) 
 
-### 页面展示3
-![模块详情](03.png) 
-
-### 页面展示4
-![模块详情](04.jpg) 
-
-### 页面展示5
-![模块详情](05.jpg) 
+![模块详情](03.jpg) 
