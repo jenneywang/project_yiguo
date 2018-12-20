@@ -6,8 +6,13 @@ vue + vuex + vue-router + axios + vue-cli + yarn + scss + ES6 + ES Modules + jQu
 
 ## 效果展示
 ![模块详情](01.png)  
+
 ![模块详情](02.png) 
+
 ![模块详情](03.png) 
+
 ![模块详情](04.jpg) 
+
 ![模块详情](05.jpg) 
+
 ![模块详情](06.png) 
